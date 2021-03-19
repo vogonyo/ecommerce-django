@@ -26,7 +26,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '44wsg92v+%w_rqo6*l(y^hhyz@x@va8k5+z6*jfv6-@)-ln-&r'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['multilab-systems.herokuapp.com', '127.0.0.1']
 
