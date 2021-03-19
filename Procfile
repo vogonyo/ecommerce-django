@@ -1,1 +1,1 @@
-web: gunicorn multilabs.wsqi --log-file -
+web: gunicorn multilabs.wsqi
