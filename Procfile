@@ -1,1 +1,1 @@
-web: gunicorn multilabs.wsqi
+web: gunicorn multilabs.wsgi
